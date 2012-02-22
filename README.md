@@ -1,14 +1,12 @@
-# Heroku Static
+# st
 
-Static file site template for Heroku.
+Static file uploader for Heroku and Cloud foundary
 
 ## USAGE
 
-    $ git clone git://github.com/komagata/heroku-static.git
-    $ cd heroku-static
-    $ heroku create foo-bar-buz
-    $ git push heroku master
+    $ git clone git://github.com/kiyog/st.git
+    $ cd st
 
 ## LISENCE
 
-MIT LISENCE
+UNKNOWN
